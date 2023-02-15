@@ -5,7 +5,7 @@ defmodule B3.MixProject do
     [
       app: :b3,
       version: "0.1.0-beta.1",
-      elixir: "~> 1.14",
+      elixir: "~> 1.12",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
       name: "B3",
