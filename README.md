@@ -1,5 +1,9 @@
 # B3
 
+![Hex.pm](https://img.shields.io/hexpm/v/b3?color=informational)
+![License](https://img.shields.io/github/license/lebrunel/b3?color=informational)
+![Build Status](https://img.shields.io/github/actions/workflow/status/lebrunel/b3/elixir.yml?branch=main)
+
 B3 is a pure Elixir implementation of [BLAKE3](https://blake3.io), a modern cryptographic hash function.
 
 As well as regular hash, B3 is a PRF, MAC, KDF, and XOF. That's a lot of acronyms!
